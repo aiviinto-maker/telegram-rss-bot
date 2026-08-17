@@ -1,0 +1,6 @@
+# Format:
+# Source Name | RSS URL
+
+# Add your RSS feeds below.
+# Example:
+# Bitcoin News | https://example.com/rss
